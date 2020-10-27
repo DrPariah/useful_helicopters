@@ -24,3 +24,5 @@ This diameter is:
 
 E.G for the Heavy Duty Military Rotor the rotors will stick out 7 tiles in each direction from the tile the rotor is installed on.
 I plan on pestering SomeDeadGuy to add a graphic to show this in his tileset. If he's unable\unwilling I'll probably do it myself.
+(Note from Pariah: The All-In-One version just combines a few mods I had been using with SpadeDraco's work. That includes setting the Helicopter Pilot trait as usable
+by anyone (just take it at character creation like normal, it's in the Cosmetics heading) and an attempt to increase helicopter spawns to unrealistic levels so you have an actual chance of finding a helicopter. Obviously this only works in a pre-Proficiency build of C:DDA.)
